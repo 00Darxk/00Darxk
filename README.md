@@ -1,5 +1,7 @@
 ## Hmmmm cheese... 🧀
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=00Darxk&hide=contribs,prs)
+
 <!--START_SECTION:waka-->
 
 ```txt
