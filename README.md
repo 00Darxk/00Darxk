@@ -29,29 +29,29 @@ I *LOVE* gambling, C++ on Balatro. Learned software engineering from Factorio. S
 <p align="center">
 <!-- TODO add colors theme -->
 <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=00Darxk&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent"
+    <source srcset="https://github-readme-stats-mu-three-38.vercel.app/api?username=00Darxk&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent"
         media="(prefers-color-scheme: dark)"
     />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=00Darxk&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent"
+    <source srcset="https://github-readme-stats-mu-three-38.vercel.app/api?username=00Darxk&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent"
         media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=00Darxk&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent">
+    <img src="https://github-readme-stats-mu-three-38.vercel.app/api?username=00Darxk&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent">
 </picture><picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=00Darxk&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    <source srcset="https://github-readme-stats-mu-three-38.vercel.app/api/top-langs?username=00Darxk&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent"
         media="(prefers-color-scheme: dark)"
     />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=00Darxk&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    <source srcset="https://github-readme-stats-mu-three-38.vercel.app/api/top-langs?username=00Darxk&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent"
         media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00Darxk&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent">
+    <img src="https://github-readme-stats-mu-three-38.vercel.app/api/top-langs?username=00Darxk&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent">
 </picture><picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=00Darxk&locale=en&theme=transparent&layout=compact&hide_border=true"
+    <source srcset="https://github-readme-stats-mu-three-38.vercel.app/api/wakatime?username=00Darxk&locale=en&theme=transparent&layout=compact&hide_border=true"
         media="(prefers-color-scheme: dark)"
     />
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=00Darxk&locale=en&theme=transparent&layout=compact&hide_border=true"
+    <source srcset="https://github-readme-stats-mu-three-38.vercel.app/api/wakatime?username=00Darxk&locale=en&theme=transparent&layout=compact&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=00Darxk&locale=en&theme=transparent&layout=compact&hide_border=true&layout=compact&hide_border=true">
+    <img src="https://github-readme-stats-mu-three-38.vercel.app/api/wakatime?username=00Darxk&locale=en&theme=transparent&layout=compact&hide_border=true&layout=compact&hide_border=true">
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/018ded59-ab85-4290-a0f6-8904dedfd05d.svg)](https://wakatime.com/@018ded59-ab85-4290-a0f6-8904dedfd05d)
